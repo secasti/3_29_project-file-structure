@@ -11,6 +11,7 @@ After re-organizing the files, it will also be necessary to update the imports i
 To check if the tests are running as expected, run the following command:
 
 python3 -m pytest test_X.py
+
 Replace X with addition, subtraction, multiplication, or division. If the file you are testing is nested in a sub-directory, please remember to cd into the directory before running the command.
 
 Once the tests are running correctly, please also create the following for the project:
